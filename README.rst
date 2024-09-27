@@ -111,6 +111,9 @@ BitFieldListFilter is in ``bitfield.admin`` module::
 
 Changelog
 =========
+2.3.1 - 2024-09-27:
+
+- Update pytest-django to support django 4.2
 
 2.3.0 - 2024-09-25:
 
